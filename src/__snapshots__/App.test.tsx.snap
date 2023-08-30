@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders 1`] = `
+<DocumentFragment>
+  <div>
+    <nav>
+      <ul>
+        <li>
+          <a
+            href="/"
+          >
+            Home
+          </a>
+        </li>
+        <li>
+          <a
+            href="/other"
+          >
+            Other
+          </a>
+        </li>
+      </ul>
+    </nav>
+    <hr />
+    <h1>
+      Main
+    </h1>
+  </div>
+</DocumentFragment>
+`;
